@@ -1,7 +1,7 @@
 import googlemaps
 import pandas as pd
 
-gmaps = googlemaps.Client(key = "AIzaSyAY9ETnhPRgP3_z5FwlR6F2SYuZBjpKnfs")
+gmaps = googlemaps.Client(key = "xxxx")
 
 from math import radians, sin, cos, asin, sqrt
 
